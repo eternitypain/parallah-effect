@@ -5,8 +5,7 @@
         "**/*.js",
         "**/*.md",
         "**/*.json",
-        ".eslintrc.cjs",
-        "./src/assets/scss/base/normalize.scss"
+        ".eslintrc.cjs"
     ],
     "rules": {
         "declaration-empty-line-before": "never",
